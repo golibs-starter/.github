@@ -16,5 +16,5 @@ This is the sample project designed under Clean Architecture, built on Golibs in
 
 ### 👩‍💻 Contributors
 
-@zenthangplus, @ndnam90
+@zenthangplus, @ndnam90, @william9x
 
